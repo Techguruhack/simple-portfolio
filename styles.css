@@ -1,0 +1,133 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+#stellar-header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.nebula-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 2rem;
+}
+
+.galaxy-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#cosmic-introduction {
+    
+    color: #2959f5;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.supernova-title {
+    font-size: 3rem;
+}
+
+.pulsar-description {
+    font-size: 1.5rem;
+}
+
+#about-me, #my-work, #contact {
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.comet-container, .satellite-showcase, .asteroid-contact {
+    text-align: center;
+}
+
+.meteor-heading, .orbit-heading, .planet-heading {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.asteroid-text {
+    font-size: 1.2rem;
+}
+
+.planet-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.star-project {
+    width: 300px;
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.comet-image {
+    width: 100%;
+    height: auto;
+}
+
+.moon-title {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.meteor-description {
+    font-size: 1rem;
+}
+
+.nebula-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.comet-label {
+    font-size: 1rem;
+}
+
+.supernova-input, .supernova-textarea {
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.galaxy-button {
+    padding: 0.75rem;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    cursor: pointer;
+}
+
+#blackhole-footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.dark-matter-text {
+    margin: 0;
+}
